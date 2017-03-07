@@ -1,0 +1,6 @@
+title = "Infomaniak Status"
+baseURL = "http://example.org/"
+languageCode = "fr-FR"
+
+[Params]
+  Author = "Shekhar Gulati"
